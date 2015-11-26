@@ -1,0 +1,104 @@
+Added Component: Designator=JP1(SIP1x12x2.54)
+Added Component: Designator=JP2(SIP2X12X2.54)
+Added Component: Designator=JP3(SIP1x8x2.0)
+Added Component: Designator=JP4(SIP1x8x2.0)
+Added Component: Designator=JP5(SIP1x8x2.0)
+Added Component: Designator=JP6(SIP1x8x2.0)
+Added Pin To Net: NetName=AD0 Pin=JP2-18
+Added Net: Name=AD0
+Added Pin To Net: NetName=AD1 Pin=JP2-16
+Added Net: Name=AD1
+Added Pin To Net: NetName=AD2 Pin=JP2-14
+Added Net: Name=AD2
+Added Pin To Net: NetName=AD3 Pin=JP2-12
+Added Net: Name=AD3
+Added Pin To Net: NetName=AD4 Pin=JP2-10
+Added Net: Name=AD4
+Added Pin To Net: NetName=AD5 Pin=JP2-8
+Added Net: Name=AD5
+Added Pin To Net: NetName=AD6 Pin=JP2-6
+Added Net: Name=AD6
+Added Pin To Net: NetName=AD7 Pin=JP2-4
+Added Net: Name=AD7
+Added Pin To Net: NetName=EX_RXD2 Pin=JP1-4
+Added Pin To Net: NetName=EX_RXD2 Pin=JP3-2
+Added Net: Name=EX_RXD2
+Added Pin To Net: NetName=EX_RXD5 Pin=JP1-7
+Added Pin To Net: NetName=EX_RXD5 Pin=JP5-2
+Added Net: Name=EX_RXD5
+Added Pin To Net: NetName=EX_SPI_CS Pin=JP1-9
+Added Net: Name=EX_SPI_CS
+Added Pin To Net: NetName=EX_TXD2 Pin=JP1-3
+Added Pin To Net: NetName=EX_TXD2 Pin=JP3-1
+Added Net: Name=EX_TXD2
+Added Pin To Net: NetName=EX_TXD5 Pin=JP1-6
+Added Pin To Net: NetName=EX_TXD5 Pin=JP5-1
+Added Net: Name=EX_TXD5
+Added Pin To Net: NetName=GND Pin=JP1-2
+Added Pin To Net: NetName=GND Pin=JP1-5
+Added Pin To Net: NetName=GND Pin=JP1-8
+Added Pin To Net: NetName=GND Pin=JP2-23
+Added Pin To Net: NetName=GND Pin=JP3-4
+Added Pin To Net: NetName=GND Pin=JP3-6
+Added Pin To Net: NetName=GND Pin=JP4-8
+Added Pin To Net: NetName=GND Pin=JP5-4
+Added Pin To Net: NetName=GND Pin=JP5-6
+Added Pin To Net: NetName=GND Pin=JP6-8
+Added Net: Name=GND
+Added Pin To Net: NetName=IO1 Pin=JP2-17
+Added Pin To Net: NetName=IO1 Pin=JP3-7
+Added Net: Name=IO1
+Added Pin To Net: NetName=IO2 Pin=JP2-15
+Added Pin To Net: NetName=IO2 Pin=JP3-8
+Added Net: Name=IO2
+Added Pin To Net: NetName=IO3 Pin=JP2-13
+Added Pin To Net: NetName=IO3 Pin=JP4-3
+Added Net: Name=IO3
+Added Pin To Net: NetName=IO4 Pin=JP2-9
+Added Pin To Net: NetName=IO4 Pin=JP5-7
+Added Net: Name=IO4
+Added Pin To Net: NetName=IO5 Pin=JP2-11
+Added Pin To Net: NetName=IO5 Pin=JP5-8
+Added Net: Name=IO5
+Added Pin To Net: NetName=IO6 Pin=JP2-7
+Added Pin To Net: NetName=IO6 Pin=JP6-3
+Added Net: Name=IO6
+Added Pin To Net: NetName=IO7 Pin=JP2-5
+Added Net: Name=IO7
+Added Pin To Net: NetName=IO8 Pin=JP2-3
+Added Net: Name=IO8
+Added Pin To Net: NetName=ONE_WIRE Pin=JP2-19
+Added Net: Name=ONE_WIRE
+Added Pin To Net: NetName=SCLK Pin=JP1-11
+Added Pin To Net: NetName=SCLK Pin=JP4-5
+Added Pin To Net: NetName=SCLK Pin=JP6-5
+Added Net: Name=SCLK
+Added Pin To Net: NetName=SCL Pin=JP2-2
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=JP2-1
+Added Net: Name=SDA
+Added Pin To Net: NetName=SIMO Pin=JP1-10
+Added Pin To Net: NetName=SIMO Pin=JP4-4
+Added Pin To Net: NetName=SIMO Pin=JP6-4
+Added Net: Name=SIMO
+Added Pin To Net: NetName=SOMI Pin=JP1-12
+Added Pin To Net: NetName=SOMI Pin=JP4-6
+Added Pin To Net: NetName=SOMI Pin=JP6-6
+Added Net: Name=SOMI
+Added Pin To Net: NetName=VBUS Pin=JP1-1
+Added Pin To Net: NetName=VBUS Pin=JP2-21
+Added Pin To Net: NetName=VBUS Pin=JP4-7
+Added Pin To Net: NetName=VBUS Pin=JP6-7
+Added Net: Name=VBUS
+Added Pin To Net: NetName=VCC_BASE_5V Pin=JP2-24
+Added Net: Name=VCC_BASE_5V
+Added Pin To Net: NetName=VCC_SENSOR_3.3V Pin=JP2-22
+Added Pin To Net: NetName=VCC_SENSOR_3.3V Pin=JP3-5
+Added Pin To Net: NetName=VCC_SENSOR_3.3V Pin=JP5-5
+Added Net: Name=VCC_SENSOR_3.3V
+Added Pin To Net: NetName=VCC_SENSOR_5V Pin=JP2-20
+Added Pin To Net: NetName=VCC_SENSOR_5V Pin=JP3-3
+Added Pin To Net: NetName=VCC_SENSOR_5V Pin=JP5-3
+Added Net: Name=VCC_SENSOR_5V
+Added Class: Name=bh_gateway_alph
+Added Room: Name=bh_gateway_alph
